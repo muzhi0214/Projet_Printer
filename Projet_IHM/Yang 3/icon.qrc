@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Icône/bold.png</file>
+        <file>Icône/italic.png</file>
+        <file>Icône/open.png</file>
+        <file>Icône/open 2.png</file>
+        <file>Icône/redo.png</file>
+        <file>Icône/save.png</file>
+        <file>Icône/underline.png</file>
+        <file>Icône/undo.png</file>
+    </qresource>
+</RCC>
